@@ -1,6 +1,4 @@
 kova
 jilebi
 badsha
-kaju katli
-paneer jilebi
-adding few more to update and deploy demo
+kaju katlipaneer jilebi
